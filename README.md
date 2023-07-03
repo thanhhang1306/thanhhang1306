@@ -91,3 +91,9 @@ Here are some ideas to get you started:
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thanhhang1306&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanhhang1306&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
