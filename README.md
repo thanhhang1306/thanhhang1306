@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 ## <picture><img src = "assets/about_me.gif" width = 50px></picture> **About me**
 - 👩‍💻 I am a Software Engineer (Full Stack and Mobile Developer) with an interest in machine learning and finance.
-- 📝 View my resume [here](https://drive.google.com/file/d/1P68FneD9GH-m0WEWVTUFyp74ei98BzQt/view?usp=sharing).
+- 📝 View my resume [here](assets/resume.pdf).
 - 📫 Feel free to reach out to me  **hang.pham@princeton.edu**.
 
 
