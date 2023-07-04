@@ -25,7 +25,7 @@ Hang Pham's Profile Page
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
-  <a href="https://www.thanhhang1306.github.io/portfolio/">
+  <a href="https://thanhhang1306.github.io/portfolio/">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </div>
