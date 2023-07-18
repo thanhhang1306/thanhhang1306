@@ -93,12 +93,15 @@
    <!--end message -->
 
    <div align="center">
-   </div>
-   <div align="center">
    <p style="font-size: 30px">
    𐦍༘⋆
    </p>
+   <p>
    Thank you for visiting my GitHub profile! Feel free to explore my repositories and projects. If you have any questions, suggestions, or collaboration opportunities, please don't hesitate to reach out and connect. Let's program and build amazing things together! 
+   </p>
+   
+   [![](https://visitcount.itsvg.in/api?id=thanhhang1306&label=Profile%20Views&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in)
+
 
    </div>
 </div>
