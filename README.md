@@ -18,6 +18,13 @@ Hang Pham's Profile Page
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&pause=700&duration=3000&center=true&vCenter=true&width=550&lines=Hang+Pham;Software+Developer;Machine+Learning;+%E0%BC%98%E2%8B%86+Design+%E2%98%85%E2%8B%86.+%E0%BF%90%E0%BF%94+;" alt="Typing SVG" /></a>
 </p>
 
+
+
+<!-- Snake svg  -->
+<div align="center">
+   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" />
+</div>
+
 <!-- Badges  -->
 <div id="badges" align="center">
    <a href="https://github.com/thanhhang1306">
@@ -30,11 +37,6 @@ Hang Pham's Profile Page
   <a href="https://thanhhang1306.github.io/portfolio/">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
   </a>
-</div>
-
-<!-- Snake svg  -->
-<div align="center">
-   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" />
 </div>
 
 <br>
