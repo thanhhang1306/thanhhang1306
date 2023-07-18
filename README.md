@@ -41,9 +41,9 @@
    <!-- General Information -->
    ## <picture><img src = "assets/about_me.gif" width = 50px></picture> **About me**
    - 👩‍💻 I am a **software developer (full-stack web & mobile)** with an interest in **machine learning and finance.**
-   - 🌱 I am currently working as **a Software Engineering Intern @Aspiritech and a Software Engineer & ML Intern @TicketWallet.**
+   - 🌱 Currently working as **a Software Engineering Intern @Aspiritech and a Software Engineer & ML Intern @TicketWallet.**
    - 🎓 Currently pursuing a **B.S.E in Computer Science** at **Princeton University.**
-   - 📝 View my resume **[here](assets/resume.pdf)** & view my projects on **[GitHub](https://github.com/thanhhang1306).**
+   - 📝 View my resume **[here](assets/resume.pdf)** & my projects on **[GitHub](https://github.com/thanhhang1306).**
    - 📫 Feel free to reach out to me  **hang.pham@princeton.edu**.
    - 👥 Connect with me on **[LinkedIn](https://linkedin.com/in/hangp).**
 
