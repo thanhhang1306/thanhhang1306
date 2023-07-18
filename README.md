@@ -28,6 +28,10 @@ Hang Pham's Profile Page
   <a href="https://thanhhang1306.github.io/portfolio/">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
   </a>
+
+</div>
+<div align="center">
+   <img  src="https://github.com/thanhhang1306/thanhhang1306/blob/output/github-contribution-grid-snake.svg" alt="snake" />
 </div>
 
 <br>
