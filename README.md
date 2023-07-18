@@ -93,6 +93,7 @@
    <!--end message -->
 
    <div align="center">
+   [![](https://visitcount.itsvg.in/api?id=thanhhang1306&icon=5&color=6)](https://visitcount.itsvg.in)
 
    <p style="font-size: 30px">
    𐦍༘⋆
