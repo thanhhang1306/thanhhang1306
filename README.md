@@ -93,7 +93,7 @@
    <!--end message -->
 
    <div align="center">
-   <p style="font-size: 30px">
+   <p style="font-size: 35px">
    𐦍༘⋆
    </p>
    <p>
