@@ -12,7 +12,7 @@
 
    <!-- Typing svg -->
    <p align="center">
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&pause=700&duration=3000&center=true&vCenter=true&width=550&height=45&lines=Hang+Pham;Software+Developer;Machine+Learning;+%E0%BC%98%E2%8B%86+Design+%E2%98%85%E2%8B%86.+%E0%BF%90%E0%BF%94+;" alt="Typing SVG" /></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&pause=700&duration=3000&center=true&vCenter=true&width=550&height=60&lines=Hang+Pham;Software+Developer;Machine+Learning;+%E0%BC%98%E2%8B%86+Design+%E2%98%85%E2%8B%86.+%E0%BF%90%E0%BF%94+;" alt="Typing SVG" /></a>
    </p>
 
    <!-- Badges  -->
