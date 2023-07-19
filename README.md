@@ -34,7 +34,7 @@
 
    <!-- Snake svg  -->
    <div align="center">
-      <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" />
+      <img  src="assets/grid-snake.svg" alt="snake" />
    </div>
 
 
