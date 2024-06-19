@@ -41,7 +41,7 @@
    <!-- General Information -->
    ## <picture><img src = "assets/about_me.gif" width = 50px></picture> **About me**
    - 👩‍💻 I am a **software developer (full-stack web & mobile)** with an interest in **machine learning and finance.**
-   - 🌱 Currently working as a **Software Engineer Intern.**
+   - 🌱 Currently working as a **Software Engineer Intern** at **Meta**.
    - 🎓 Currently pursuing a **B.S.E in Computer Science** at **Princeton University.**
    - 📝 View my resume **[here](assets/resume.pdf)** & my projects on **[GitHub](https://github.com/thanhhang1306).**
    - 📫 Feel free to reach out to me  **hang.pham@princeton.edu**.
