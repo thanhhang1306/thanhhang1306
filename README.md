@@ -44,7 +44,7 @@
    - 🌱 Prev **Quantitative Developer Intern** at **Citadel Securities** & **Software Engineer Intern** at **Meta**
    - 🎓 Currently pursuing a **B.S.E in Computer Science** at **Princeton University.**
    - 📝 View my resume **[here](assets/resume.pdf)** & my projects on **[GitHub](https://github.com/thanhhang1306).**
-   - 📫 Feel free to reach out to me  **hang.pham@princeton.edu**.
+   - 📫 Feel free to reach out to me  **hang.pham@princeton.edu** or **hangtpham04@gmail.com**.
    - 👥 Connect with me on **[LinkedIn](https://linkedin.com/in/hangp).**
 
    <br>
